@@ -4,4 +4,4 @@
 
 Que tal uma forma de criar task runners sem precisa de GUlp ou Grunt?
 
-Melhor ainda, que tal não precisar instalar nenhuma ferramenta global, isso tupo pode ser feito utilizando somente o NPM Scripts.
+Melhor ainda, que tal não precisar instalar nenhuma ferramenta global, isso tudo pode ser feito utilizando somente o NPM Scripts.
